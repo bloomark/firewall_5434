@@ -1,0 +1,4 @@
+allow tcp 128.253.3.172 any 165.21.101.36 any
+block any 128.84.216.78 any 128.253.3.172 any
+block any 128.253.3.172 any 128.84.216.78 any
+block any any any any any
